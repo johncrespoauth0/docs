@@ -114,7 +114,7 @@ Next, you will need to create and configure a Google G Suite Enterprise Connecti
 
 ## Enable the enterprise connection for your Auth0 application
 
-To use your new AD connection, you must first [enable the connection](/dashboard/guides/connections/enable-connections-enterprise) for your Auth0 Applications.
+To use your new G Suite connection, you must first [enable the connection](/dashboard/guides/connections/enable-connections-enterprise) for your Auth0 Applications.
 
 ## Test the connection
 
